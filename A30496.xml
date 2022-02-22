@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Burning of the whore of Babylon as it was acted with great applause, in the Poultrey, London, on Wednesday night, being the fifth of November last, at six of the clock : with a relation of their matchless, develish, Gun-powder-plot, and their oath of secrecy : also the priests and Jesuits prayer for the good success of this damnable plot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30496</idno>
+            <idno type="STC">Wing B5965</idno>
+            <idno type="STC">ESTC R8022</idno>
+            <idno type="EEBO-CITATION">12251900</idno>
+            <idno type="OCLC">ocm 12251900</idno>
+            <idno type="VID">57144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 910:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Burning of the whore of Babylon as it was acted with great applause, in the Poultrey, London, on Wednesday night, being the fifth of November last, at six of the clock : with a relation of their matchless, develish, Gun-powder-plot, and their oath of secrecy : also the priests and Jesuits prayer for the good success of this damnable plot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by R.C. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gunpowder Plot, 1605.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57144:1" rendition="simple:additions"/>
+            <p>THE BURNING OF THE Whore of Babylon, As it was Acted, with great Applauſe, in the <hi>Poultrey, London,</hi> on <hi>Wedneſday</hi> Night, being the Fifth of <hi>November</hi> laſt, at Six of the Clock.</p>
+            <p>With a Relation of their Matchleſs Develiſh, <hi>Gun-powder-Plot;</hi> and their Oath of Secreſy: Alſo the Prieſts and Jeſuits Prayer for the good Succeſs of this damnable Plot.</p>
+            <q xml:lang="lat">Semel in Anno ridet Apollo.</q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>R. C.</hi> over againſt the <hi>Globe</hi> in <hi>Little-Brittain,</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57144:2"/>
+            <pb n="1" facs="tcp:57144:2"/>
+            <head>THE BURNING OF THE WHORE OF <hi>BABYLON,</hi> As it was Acted, with great Applauſe, in the <hi>Poultrey, London,</hi> on <hi>Wedneſday</hi> Night, (being the 5th of <hi>November</hi> laſt) as Six of the Clock.</head>
+            <p>IT was the ſaying of good Biſhop <hi>Latimer</hi> to his fellow-Sufferer, when he came to dye at the Stake in <hi>Ox<g ref="char:EOLhyphen"/>ford, Be of good cheer Brother, for we ſhall light ſuch a a Fire this day in</hi> England, <hi>as by God's Grace the</hi> Pa<g ref="char:EOLhyphen"/>piſts <hi>ſhall never be able to quench it;</hi> and how much this hath been verified, let the World judge. For, notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="2" facs="tcp:57144:3"/>the <hi>Romaniſts</hi> have made it their buſineſs to quench the fire of the <hi>Gunpowder-Treaſon,</hi> in the thoughts of the preſent Generation, yet with all their Arrifices, they have not been able to do it, but the memory of that never to be forgotten day, is carefully tranſmitted from the Elder to the Younger, ſo that the Child, as well as the Man of years conſiders it; and the middle-age, as well as either; nor is there any degree of men in the Kingdom that have not (as they have had occaſion) teſtified their abhorrency of the <hi>Papiſt</hi> Principles and practices, the Zeal whereof is again renewed from the Higheſt to the Loweſt; and becauſe that Religion hath made ſuch great uſe of fire for its propogation, and the fiery <hi>Jeſuit</hi> retains ſtill his heat to blow up all the Gunpowder, if it lay in his power; therefore Bonfires and Squibs are the uſual Trophies that the Juvenal fry in <hi>England</hi> make uſe of on that day, to teſtifie their joy and gladneſs for the wonderful preſerva<g ref="char:EOLhyphen"/>tion of their fore-Fathers.</p>
+            <p>And now again, his Sacred Majeſty, (whom God pre<g ref="char:EOLhyphen"/>ſerve) and his Parliament, having ſo lately renewed their joynt deſires and endeavours for the Supreſſing of the growth of <hi>Popery</hi> in this Kingdom, to the great ſatisfaction of all good Subjects: The Citizens rejoyceing, ſeemed to ſwel the banks laſt <hi>Wedneſday</hi> Night, where you might have ſeen the broad Streets of <hi>London</hi> ſo thick with Bonfires, as if they had been but one Hearth, and the Fire-works fly<g ref="char:EOLhyphen"/>ing in ſuch numbers, that the Serpents flew like Bees through the Ayre, and could ſcarce have room for one a<g ref="char:EOLhyphen"/>nother to paſs: The Bells were very early up that Morn<g ref="char:EOLhyphen"/>ing, and rung ſo loud, as if they had prefaced in a Ju<g ref="char:EOLhyphen"/>bilee.</p>
+            <pb n="3" facs="tcp:57144:3"/>
+            <p> BUt that being no more than what was common for kind, though not in degree; The Apprentices were reſolved to make a new Addition, which was, a large Effigie of the Whore of <hi>Babylon,</hi> dreſt up Cap-a-Pe, with all the Whoriſh Ornaments, having a Croſs and Two Keyes in his hand; I know not if they were the Keys of the Cellar that <hi>Guy Faux</hi> had, but I ſuppoſe they might belong to Purgatory, becauſe the <hi>Pope</hi> formerly kept one, and <hi>Donna Olympia</hi> the other; he had a ſtring of Beads in the other hand: and never more need you will ſay, to fall to his Beads, when I ſhall tell you how near he was to his End: (I do not think they were the ſame that Father <hi>Gardner</hi> carried with him to <hi>Tyburn;</hi>) he gorgiouſly appear'd with the Triple Crown on his head, and holding a Placate in his hand, extended to the people, Proclaiming general Pardons; but I ſaw none very for<g ref="char:EOLhyphen"/>ward to accept them, notwithſtanding the Market was ready to be ſhut up, and himſelf ſo near his End; in this poſture he was carried, not in a Chaire, but as the Traytors heads are upon the Bridge, fixed upon a Pole in Proceſſion, all about the <hi>Poultrey</hi> Market-place, attend<g ref="char:EOLhyphen"/>ed with near an hundred Torches, and more than a thou<g ref="char:EOLhyphen"/>ſand people. This Ceremony laſted ſome conſiderable time; after which, the Effigies was hung up, upon a high Rope that was tyed at two Garret windows, croſs the <hi>Poul<g ref="char:EOLhyphen"/>trey</hi> Street about two hours, with a great Bonfire be<g ref="char:EOLhyphen"/>fore it, leſt it ſhould catch cold by hanging ſo long in the Ayr.</p>
+            <p>That being ended, there was a Hogſhead filled with ſmall fuel &amp; combuſtible ſtuff, which was ſet right under his feet; but ſuch was the forwardneſs of ſome of the Spectators, that they muſt imploy ſome other weapons for his deſtruction, ſome letting flie at him with Piſtols, and
+<pb n="4" facs="tcp:57144:4"/>others with Fowling-Peices; but the fire over-powering it, ſoon ſpoyled their ſport, by burning the Mark; yet they were loth to omit the uſe of Guns, in memory of the Monk that contrived them two hundred and ninety-three years agoe.</p>
+            <p>Now having filled themſelves with good Liquor, and gratified their own humors, every Man and Boy went to his own home, and ſo the Play ended.</p>
+            <p>The Reader is deſired to take Notice of the following matter, which ſtands upon Record.</p>
+            <div type="part">
+               <head>the deliverance of our Church and State from the helliſh Powder-plot.</head>
+               <p>The Plot was to undermine the Parliament houſe, and with Powder to blow up the King, Prince, Clergy, Nobles, Knights, and Burgeſſes, the very confluence of all the flower of Glory, Piety, Learning, Prudence and Authority in the Land: Fathers, Sons, Brothers, Alleys, Friends, Foes, Pa<g ref="char:EOLhyphen"/>piſts, and Proteſtants, all at one blaſt.</p>
+               <p>The intent, when that irreligious atchievement had been performed, was, to ſurprize the remainder of the Kings iſ<g ref="char:EOLhyphen"/>ſue, to alter Religion and Government, and to bring in a for<g ref="char:EOLhyphen"/>reigne power: Sir <hi>Edmond Baynam,</hi> an attainted perſon (who ſtiled himſelf <hi>Prince of the damned crew</hi>) was ſent unto the Pope as he was a temporal Prince, to acquaint him with the Gun<g ref="char:EOLhyphen"/>powder-plot: and now to the Plot it ſelf.</p>
+               <pb n="5" facs="tcp:57144:4"/>
+               <p> The Seſſons of Parliament being diſſolved, <hi>July</hi> the 7th. <hi>Anno Chriſti,</hi> 1605. and prorogued to the ſeventh of <hi>February</hi> following: <hi>Catesby</hi> heing at <hi>Lambeth,</hi> ſent for <hi>Thomas Win<g ref="char:EOLhyphen"/>ter,</hi> who before had been employed into <hi>Spaine,</hi> and acquain<g ref="char:EOLhyphen"/>ted him with the deſigne of blowing up the Parliament houſe, who readily aprehending it, ſaid, <hi>This indeed ſtrikes at the root,</hi> only theſe helps were wanting, a houſe for reſidence, and a skilful man to carry the Mine: But the firſt, <hi>Catesby</hi> aſſured him was eaſie to be got, and for the man, he commen<g ref="char:EOLhyphen"/>ded <hi>Guy Fawkes,</hi> a ſufficient ſoulder, and a forward Catholick: Thus <hi>Robert Catesby, JOhn Wright, Thomas Winter,</hi> and <hi>Guy Fawkes</hi> had many meetings, and conferences about this buſi<g ref="char:EOLhyphen"/>neſſe, till at laſt <hi>Thomas Percy</hi> came puffing in to <hi>Catesby</hi>'s lodging at <hi>Lambeth,</hi> ſaying, <hi>What Gentlemen, ſhall we al<g ref="char:EOLhyphen"/>wayes be talking, and never do any thing? You cannot be igno<g ref="char:EOLhyphen"/>rant how things proceed?</hi> To whom <hi>Catesby</hi> anſwered, that ſomething was reſolved on, but firſt an oath for ſecreſſe was to be adminiſtred: for which purpoſe they appointed to meet ſome three dayes after, behind <hi>Clements</hi> Church beyond <hi>Temple<g ref="char:EOLhyphen"/>barre;</hi> where being met, <hi>Percy</hi> profeſſed that for the Catho lick cauſe himſelf would be the man to advance it, were it with the ſlaughter of the King, which he was there ready to under<g ref="char:EOLhyphen"/>take and do.</p>
+               <p>No <hi>Tom</hi> (ſaid <hi>Catesby</hi>) thou ſhalt not adventure thy ſelf to ſo ſmall purpoſe, if thou wilt be a Traytor, there is a plot to greater advantage, and ſuch an one as can never be diſcovered: hereupon all of them took the Oath of ſecreſie, heard a Maſſe, and received the Sacrament, after which <hi>Catesby</hi> told them his devilliſh deviſe by Mine and Gunpowder to blow up the Pasrliament houſe, and ſo by one ſtroke with the deſtruction of many, effect that at once which had been many years attempt<g ref="char:EOLhyphen"/>ing: And for caſe of conſcience to kill the innocent with the nocent, he told that it was warrantable by the authority of
+<pb n="6" facs="tcp:57144:5"/>
+                  <hi>Garnet</hi> himſelf the ſuperiour of the <hi>Engliſh</hi> Jeſuites, and of <hi>Garrard,</hi> and <hi>Treſmond</hi> (Jeſuitical Prieſts likewiſe) who by their Apoſtolical power did comment the fact, and abſolve the actors The Oath was given them by the ſaid <hi>Garrard</hi> in theſe words:
+<q>You ſhall ſwear by the bleſſed Trinity, and by the Sacrament you now purpoſe to receive, never to diſcloſe directly, nor indirectly, by word, or circumſtance, the matter that ſhall be propoſed to you to keep ſecret, nor deſiſt from the exe-Cution thereof untill the reſt ſhall give you leave.</q>
+               </p>
+               <p>Niether were the Prieſts and Jeſuities ſlack on their parts, who uſually concluded their Maſſes with prayers for the good ſuc<g ref="char:EOLhyphen"/>ceſſe of their expected hopes, about which <hi>Garnet</hi> made theſe verſes.
+<q xml:lang="lat">
+                     <l>Gentem aufert perfidam credentium de finibus:</l>
+                     <l>Ut Chriſto laudes debitas perſolvamus alacriter.</l>
+                  </q>
+               </p>
+               <p>And others thus. <q>Proſper Lord their paines that labour in thy cauſe day and night: Let Hereſie vaniſh away like ſmoake: Let their memory periſh with a crack like the ruine and fall of a broken houſe.</q>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
